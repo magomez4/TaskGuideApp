@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">TaskGuide</string>
+    <string name="welcome_msg">\n\nWelcome to TaskGuide! Please select an activity you need help
+        with from the list below.</string>
+    <string name="btOpenTask1_txt">Install a new application</string>
+    <string name="btOpenTask2_txt">Take a screenshot and send it over Gmail</string>
+    <string name="btReturnToMenu_txt">Return to main menu</string>
+    <string name="txtTask1Title">Install a new application</string>
+    <string name="txtTask2Title">Take a screenshot and send it over Gmail</string>
+    <string name="txtTask1Body">Hi! This guide will walk you step by step through how to install a
+        new application on your Android phone. Please keep in mind that there are different ways of
+        accomplishing this task, but this guide will provide you with a standard procedure that
+        should work in almost every Android device and for almost every application as long as you
+        know the name of the application you are looking for.\n\n\n\n
+
+        1.\tUnlock your phone.\n\n
+        2.\tYou will need a reliable internet connection to download your application. If you intend to
+        use WiFi, make sure that you are connected to the correct network before we start. If you
+        intend to use your normal data plan instead, make sure that you are at a location with good
+        reception.\n\n
+        3.\tPress the home button to go to the home screen of your device.\n\n
+        4.\tSwipe up in the center of the screen to open the main menu.\n\n
+        5.\tLocate the Play Store application to search for your desired app.\n\n
+        6.\tOpen the Play Store application.\n\n
+        7.\tAt the top search bar, type the name of the application you want to install and press the
+        magnifying glass button on your keyboard to search.\n\n
+        8.\tYour application should now be listed at the top of your screen. Tap on the Install button
+        to the right of your application’s name.\n\n
+        9.\tWait until the green loading indicator circle around the application’s symbol finishes
+        loading and you’ll see the word “installed” under the name of your application.\n\n
+        10.\tPress the home button to return to your home screen.\n\n
+        11.\tYour application is now installed. If you need to open it, it should be listed in the last
+        page of your main menu.\n\n
+        Congratulations, you are done!\n\n\n\n\n\n\n\n
+    </string>
+    <string name="txtTask2Body">Hi! This guide will walk you step by step through how to take a
+        screenshot on your Android phone and send it over email using the Gmail application.
+        Please keep in mind that there are different ways of accomplishing this task, but this
+        guide will provide you with a standard procedure that should work in almost every Android
+        device that has the Gmail application installed and a Gmail account already set up.\n\n\n\n
+
+        1.\tUnlock your phone.\n\n
+        2.\tLocate the physical buttons for volume and lock of your phone.\n\n
+        3.\tTo take a screenshot, press and hold SIMULTANEOUSLY the volume down and lock buttons of
+        your device until you see the screen of your device flash.\n\n
+        4.\tThe screenshot should now be saved in your gallery.\n\n
+        5.\tOpen the Gmail app.\n\n
+        6.\tOn the bottom right, press the “Compose” button to start creating a new email.\n\n
+        7.\tTap on the “To” field and type the email address where you want to send your
+        picture to.\n\n
+        8.\tTap on the “Subject” field and type a subject for the email you want to send. For
+        example, you can type a very short description of the screenshot like “Screenshot of my
+        home screen”.\n\n
+        9.\tPress the paperclip button at the top right of your screen. A small menu will appear,
+        select the “Attach file” option.\n\n
+        10.\tIn the middle of your screen, you will see a list of recent files that your phone has
+        saved. Your screenshot should be at the top of the list.\n\n
+        11.\tSelect the screenshot by tapping on the name of the screenshot.\n\n
+        12.\tYou can type a more detailed description in the body of your email if you want to.
+        Otherwise, you are ready to send the email.\n\n
+        13.\tPress the button with the arrow pointing to the right in the top right corner to send
+        your email.\n\n
+        Congratulations, you are done!\n\n\n\n\n\n\n\n
+    </string>
+</resources>
