@@ -11,10 +11,14 @@
         android:theme="@style/Theme.TaskGuide">
         <activity
             android:name=".Task2"
-            android:exported="false" />
+            android:exported="false"
+            android:supportsPictureInPicture="true"
+            android:configChanges= "screenSize|smallestScreenSize|screenLayout|orientation"/>
         <activity
             android:name=".Task1"
-            android:exported="false" />
+            android:exported="false"
+            android:supportsPictureInPicture="true"
+            android:configChanges= "screenSize|smallestScreenSize|screenLayout|orientation"/>/>
         <activity
             android:name=".MainActivity"
             android:exported="true">

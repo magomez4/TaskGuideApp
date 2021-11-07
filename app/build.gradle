@@ -8,12 +8,13 @@ android {
 
     defaultConfig {
         applicationId "com.example.taskguide"
-        minSdk 21
+        minSdk 30
         targetSdk 30
         versionCode 1
         versionName "1.0"
+        targetSdkVersion 30
+        minSdkVersion 30
 
-        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
     buildTypes {
