@@ -5,6 +5,7 @@ To re-build this app:
 - App was developed using Android Studio Version 2020.3.1 Patch 3
 - Tested on Pixel_3_a emulator running Android 11.0 with API 30. 
 - All tests were performed on a Samsung Galaxy Note 10 Plus running Android 11 and OneUI 3.1
+- Built_APK folder contains pre-built APK file that can be directly installed in a compatible Android phone
 - build.gradle module file contained the following targets at the time of building:
 android {
     compileSdk 30
